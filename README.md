@@ -1,7 +1,3 @@
-Here’s a more polished and professional version of your notes, designed to be eye-catching for a GitHub README:  
-
----
-
 # 🎯 **Objective**  
 To enhance proficiency in working with Snowflake and Pandas for advanced data analysis, with a special focus on leveraging date and time functions for exploratory data analysis (EDA) and actionable insight generation.
 
